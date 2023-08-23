@@ -5,4 +5,4 @@ Created on Mon Aug 21 21:04:27 2023
 @author: user
 """
 
-from .test import *
+from test import *
